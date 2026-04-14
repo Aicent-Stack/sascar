@@ -177,8 +177,8 @@ pub struct HighFrequencyKineticMesh {
 - **RFC-004 (ZCMK)**: Real-time economic auctions
 - **RFC-005 (GTIOT)**: High-fidelity physical sensing
 - **RFC-006 (AICENT-NET)**: Global kinetic mesh coordination
-- **RFC-007 (CMTN)**: Diplomatic trajectory negotiation
-- **RFC-008 (IQA)**: Sovereignty seal verification
+- **RFC-008 (CMTN)**: Diplomatic trajectory negotiation
+- **RFC-009 (IQA)**: Sovereignty seal verification
 
 ---
 
