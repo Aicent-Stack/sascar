@@ -3,7 +3,7 @@
  *  (C) 2026 Aicent Stack Technical Committee. All Rights Reserved.
  *
  *  "Demonstrating Distributed Kinetic Rights and Atomic Path Coordination."
- *  Version: 1.2.3-Alpha | Domain: http://sascar.com | Repo: sascar
+ *  Version: 1.2.5-Alpha | Domain: http://sascar.com | Repo: sascar
  *
  *  IMPERIAL_STANDARD: ABSOLUTE 128-BIT NUMERIC PURITY ENABLED.
  *  SOVEREIGN_GRAVITY_WELL: MANDATORY INDIVISIBILITY PROTOCOL ENABLED.
@@ -24,7 +24,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     
     // Enforcement of the Gravity Well
     // Standalone execution demonstrates the 10ms Kinetic Friction tax on Ghost nodes.
-    verify_organism!("sascar_kinetic_example_v123");
+    verify_organism!("sascar_kinetic_example_v125");
     bootstrap_mobility(node_aid).await;
 
     // 2. Initialize the Sovereign Navigator
