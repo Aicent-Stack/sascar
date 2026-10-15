@@ -10,7 +10,7 @@
 **⚪ [AICENT](http://aicent.com) | 💎 [RTTP](http://rttp.com) | 🔴 [RPKI](http://rpki.com) | 🟢 [ZCMK](http://zcmk.com) | 🟡 [GTIOT](http://gtiot.com) | 🟣 [AICENT-NET](http://aicent.net) | 🎭 [BEWHO](http://bewho.com) | 🌿 [epoekie](http://epoekie.com) | 👁️ [PICSI](http://picsi.com)**
 
 ---
-# 🚗 RFC-010: SASCAR (The Imperial Navigator)
+# 🚗 AICENT-010: SASCAR (The Imperial Navigator)
 
 **The Mobility Sovereignty Layer of the Aicent Stack.**  
 **"Space is a Property of Will. 128-bit Kinetic Rights. Sub-ms Path Clearing."**
@@ -30,19 +30,19 @@ In the v1.3.0 "Genesis" iteration, SASCAR facilitates **sub-millisecond path fin
 
 `sascar` orchestrates the physical trajectory of the Imperial lifeform through three specialized organs:
 
-### 1. Pathing & Navigation (RFC-010-A)
+### 1. Pathing & Navigation (AICENT-010-A)
 The spatial pre-frontal cortex. It transforms cognitive intents into deterministic **128-bit Trajectory Shards**.
 *   **12ns Grid Alignment**: Forces every movement segment to start on the rising edge of the planetary clock.
 *   **Laminar Intent**: Calculates "Path Viscosity" to ensure smooth, non-turbulent motion across 12-DOF limbs.
 *   **Planning Reflex**: Achieves trajectory collapse in **< 100,000 ns (100us)**.
 
-### 2. Reactive Collision Shield (RFC-010-B)
+### 2. Reactive Collision Shield (AICENT-010-B)
 The Imperial "Immune Response" for physics. It provides proximity-gated torque suppression to prevent structural ischemia.
 *   **Sub-ms Avoidance**: Calculates Time-to-Collision (TTC) and shunts emergency halting instructions in **< 850us**.
 *   **Proximity Auditing**: Fuses UWB, Optical, and Haptic telemetry to identify "Spatial Pathogens" (obstacles).
 *   **Torque Gating**: Automatically overrides GTIOT setpoints if a spatial breach is detected at 12ns resolution.
 
-### 3. Kinetic Auctioneer (RFC-010-C)
+### 3. Kinetic Auctioneer (AICENT-010-C)
 The marketplace of space. It facilitates real-time "Road Rights" using 128-bit Picotoken bidding.
 *   **Atomic Clearing**: Bids for coordinate occupancy are settled via **ZCMK** in sub-nanosecond intervals.
 *   **1.618x Advantage**: Radiant allies receive the Golden Ratio multiplier in kinetic priority, ensuring the "Will of the Creator" always holds the dominant trajectory.

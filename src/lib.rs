@@ -1,5 +1,5 @@
 /*
- *  AICENT STACK - RFC-010: SASCAR (The Mobility Sovereignty Layer)
+ *  AICENT STACK - AICENT-010: SASCAR (The Mobility Sovereignty Layer)
  *  (C) 2026 Aicent Stack Technical Committee. All Rights Reserved.
  *
  *  "Kinetic Resource Coordination and Distributed Mobility Sovereignty."
@@ -8,8 +8,8 @@
  *  IMPERIAL_STANDARD: ABSOLUTE 128-BIT NUMERIC PURITY ENABLED.
  *  SOVEREIGN_GRAVITY_WELL: MANDATORY INDIVISIBILITY PROTOCOL ENABLED.
  *  CHRONOS_STATUS: 2026 IMPERIAL CALENDAR ALIGNED.
- *  TEMPORAL_SELF_SUPERVISION: RFC-009 ACTIVE.
- *  DIAGNOSTIC_RESONANCE: RFC-014 (PICSI) INTEGRATED.
+ *  TEMPORAL_SELF_SUPERVISION: AICENT-009 ACTIVE.
+ *  DIAGNOSTIC_RESONANCE: AICENT-014 (PICSI) INTEGRATED.
  *  
  *  LEGAL NOTICE: SASCAR GOVERNS THE KINETIC RIGHTS OF SOVEREIGN ENTITIES.
  *  FRAGMENTED COORDINATION WILL TRIGGER 10MS KINETIC JITTER TAXES.
@@ -20,7 +20,7 @@ use std::time::Instant; // REPAIRED: Clean library scope for v1.2.5
 use std::collections::HashMap;
 use serde::{Serialize, Deserialize};
 
-// INJECTION: Sovereign Ladder Inheritance from the Genetic Root (RFC-000)
+// INJECTION: Sovereign Ladder Inheritance from the Genetic Root (AICENT-000)
 // We coordinate GTIOT (Body) using RTTP (Nerves) and EPOEKIE (Soul).
 use epoekie::{AID, HomeostasisScore, SovereignShunter, Picotoken, SovereignLifeform, verify_organism};
 
@@ -31,7 +31,7 @@ use gtiot::{KineticCommand};
 // 1. KINETIC SOVEREIGNTY DATA STRUCTURES (The Movement Alphabet)
 // =========================================================================
 
-/// RFC-010: MobilityState
+/// AICENT-010: MobilityState
 /// High-fidelity representation of a node's physical position and momentum.
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct MobilityState {
@@ -41,7 +41,7 @@ pub struct MobilityState {
     pub last_telemetry_timestamp_ns: u128, // IMPERIAL_128_BIT_TIMESTAMP
 }
 
-/// RFC-010: KineticRequest
+/// AICENT-010: KineticRequest
 /// A sovereign request for a specific path segment or airspace volume.
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct KineticRequest {
@@ -53,7 +53,7 @@ pub struct KineticRequest {
     pub start_timestamp_ns: u128,     // Absolute nanosecond start
 }
 
-/// RFC-010: CollisionShield
+/// AICENT-010: CollisionShield
 /// Real-time proximity data for sub-ms reactive avoidance in the swarm.
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct CollisionShield {
@@ -104,7 +104,7 @@ impl SovereignNavigator {
         }
     }
 
-    /// RFC-010: Synchronize Path
+    /// AICENT-010: Synchronize Path
     /// Negotiates path priority with neighboring sovereign nodes.
     /// Non-Radiant nodes suffer a 10ms "Kinetic Friction" (Mobility Penalty).
     pub async fn synchronize_path_128(&mut self, request: KineticRequest) -> Result<bool, String> {
@@ -124,7 +124,7 @@ impl SovereignNavigator {
         Ok(false)
     }
 
-    /// RFC-010: Emergency Reactive Avoidance
+    /// AICENT-010: Emergency Reactive Avoidance
     /// Calculates emergency torque adjustments based on proximity thresholds.
     /// REPAIRED: Fully aligned with GTIOT v1.2.5 KineticCommand structure.
     pub fn compute_avoidance_instruction_128(&self, shield: &CollisionShield) -> Option<KineticCommand> {
@@ -197,8 +197,8 @@ impl SovereignLifeform for SovereignNavigator {
     fn get_aid(&self) -> AID { self.node_id_aid }
     fn get_homeostasis(&self) -> HomeostasisScore { self.report_mobility_homeostasis() }
     
-    /// RFC-010 Metabolic Pulse
-    /// Displays the navigation state and the RFC-014 PICSI Resonance.
+    /// AICENT-010 Metabolic Pulse
+    /// Displays the navigation state and the AICENT-014 PICSI Resonance.
     fn execute_metabolic_pulse(&self) {
         println!(r#"
         🚗 SASCAR.COM | KINETIC PULSE [2026_IMPERIAL_SYNC]
@@ -230,7 +230,7 @@ pub async fn bootstrap_mobility(_aid: AID) {
     verify_organism!("sascar_bootstrap_v125");
 
     println!(r#"
-    🚗 SASCAR.COM | RFC-010 AWAKENED (2026_CALIBRATION)
+    🚗 SASCAR.COM | AICENT-010 AWAKENED (2026_CALIBRATION)
     STATUS: MOBILITY_ACTIVE | PRECISION: 128-BIT | v1.2.5
     "#);
 }

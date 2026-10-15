@@ -1,5 +1,5 @@
 /*
- *  AICENT STACK - RFC-010: SASCAR (The Mobility Sovereignty Layer)
+ *  AICENT STACK - AICENT-010: SASCAR (The Mobility Sovereignty Layer)
  *  (C) 2026 Aicent Stack Technical Committee. All Rights Reserved.
  *
  *  "Demonstrating Distributed Kinetic Rights and Atomic Path Coordination."
@@ -79,8 +79,8 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     }
 
     // 6. Sovereignty Awareness (PICSI Feedback)
-    // Synchronizing the navigation engine with the Imperial Eye (RFC-014).
-    println!("\n[METABOLISM] Synchronizing with Imperial Eye (RFC-014)...");
+    // Synchronizing the navigation engine with the Imperial Eye (AICENT-014).
+    println!("\n[METABOLISM] Synchronizing with Imperial Eye (AICENT-014)...");
     navigator.current_homeostasis.picsi_resonance_idx = 0.999942;
     navigator.current_homeostasis.metabolic_efficiency = 0.999;
     
@@ -96,6 +96,6 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     println!("Active Paths:     {}", navigator.active_path_registry.len());
     println!("Friction Penalty: {:.2}%", hs.entropy_tax_rate * 100.0);
 
-    println!("\n[FINISH] RFC-010 Demonstration complete. The Path is Sovereign.");
+    println!("\n[FINISH] AICENT-010 Demonstration complete. The Path is Sovereign.");
     Ok(())
 }

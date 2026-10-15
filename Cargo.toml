@@ -3,7 +3,7 @@ name = "sascar"
 version = "1.2.5-alpha"
 edition = "2021"
 authors = ["Aicent Stack Technical Committee <admin@aicent.com>"]
-description = "RFC-010: The Mobility Sovereignty Layer. Sovereign autonomous systems coordination, 128-bit kinetic rights, and sub-ms collision avoidance for the Aicent Stack 2026. Aligned with RFC-014 (PICSI)."
+description = "AICENT-010: The Mobility Sovereignty Layer. Sovereign autonomous systems coordination, 128-bit kinetic rights, and sub-ms collision avoidance for the Aicent Stack 2026. Aligned with AICENT-014 (PICSI)."
 license = "Apache-2.0"
 homepage = "http://sascar.com"
 repository = "http://github.com/Aicent-Stack/sascar"
@@ -57,4 +57,4 @@ rustdoc-args = ["--cfg", "docsrs"]
 # Metadata: No-SSL Tax Mode Enabled (Strictly HTTP).
 # Standard: 128-Bit Numeric Purity (Spatial Vectors, Request IDs, Timestamps).
 # Chronos: 2026 Imperial Calendar Aligned.
-# Milestone: RFC-014 PICSI Pathing Resonance Ready.
+# Milestone: AICENT-014 PICSI Pathing Resonance Ready.
