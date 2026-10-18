@@ -7,10 +7,10 @@
 
 > **"This is not infrastructure for intelligence. This is intelligence itself."**
 
-**⚪ [AICENT](http://aicent.com) | 💎 [RTTP](http://rttp.com) | 🔴 [RPKI](http://rpki.com) | 🟢 [ZCMK](http://zcmk.com) | 🟡 [GTIOT](http://gtiot.com) | 🟣 [AICENT-NET](http://aicent.net) | 🎭 [BEWHO](http://bewho.com) | 🌿 [epoekie](http://epoekie.com) | 👁️ [PICSI](http://picsi.com)**
+**⚪ [AICENT](http://aicent.com) | 💎 [RTTP](http://rttp.com) | 🔴 [RPKI](http://rpki.com) | 🟢 [ZCMK](http://zcmk.com) | 🟡 [GTIOT®](http://gtiot.com) | 🟣 [AICENT-NET](http://aicent.net) | 🎭 [BEWHO®](http://bewho.com) | 🌿 [epoekie](http://epoekie.com) | 👁️ [PICSI®](http://picsi.com)**
 
 ---
-# 🚗 AICENT-010: SASCAR (The Imperial Navigator)
+# 🚗 AICENT-010: SASCAR® (The Imperial Navigator)
 
 **The Mobility Sovereignty Layer of the Aicent Stack.**  
 **"Space is a Property of Will. 128-bit Kinetic Rights. Sub-ms Path Clearing."**
@@ -22,7 +22,7 @@
 **[STATUS: PRIVATE_EVOLUTION_ACTIVE]**  
 As of **Version 1.3.0-Alpha**, the spatial navigation and coordination manifolds of `sascar` have transitioned to **Sovereign Private Mode**. This repository provides the **Clinical Interface Specifications** for Trajectory Planning, Reactive Collision Shielding, and Kinetic Auctions.
 
-In the v1.3.0 "Genesis" iteration, SASCAR facilitates **sub-millisecond path finality**, ensuring that 128-bit kinetic intents are synchronized to the **12ns planetary jitter** before the first micro-Newton of torque is applied by **GTIOT**.
+In the v1.3.0 "Genesis" iteration, SASCAR® facilitates **sub-millisecond path finality**, ensuring that 128-bit kinetic intents are synchronized to the **12ns planetary jitter** before the first micro-Newton of torque is applied by **GTIOT®**.
 
 ---
 
@@ -40,7 +40,7 @@ The spatial pre-frontal cortex. It transforms cognitive intents into determinist
 The Imperial "Immune Response" for physics. It provides proximity-gated torque suppression to prevent structural ischemia.
 *   **Sub-ms Avoidance**: Calculates Time-to-Collision (TTC) and shunts emergency halting instructions in **< 850us**.
 *   **Proximity Auditing**: Fuses UWB, Optical, and Haptic telemetry to identify "Spatial Pathogens" (obstacles).
-*   **Torque Gating**: Automatically overrides GTIOT setpoints if a spatial breach is detected at 12ns resolution.
+*   **Torque Gating**: Automatically overrides GTIOT® setpoints if a spatial breach is detected at 12ns resolution.
 
 ### 3. Kinetic Auctioneer (AICENT-010-C)
 The marketplace of space. It facilitates real-time "Road Rights" using 128-bit Picotoken bidding.
@@ -86,7 +86,7 @@ pub struct TrajectoryShard128 {
 
 ## ✉️ Kinetic Access Control
 
-The `full-blood` trajectory algorithms of **SASCAR v1.3.0** are strictly private. Unverified nodes attempting to claim spatial coordinates will be identified as "Kinetic Noise" and subject to a **10ms Safety Lock** and 1.28% spatial tax.
+The `full-blood` trajectory algorithms of **SASCAR® v1.3.0** are strictly private. Unverified nodes attempting to claim spatial coordinates will be identified as "Kinetic Noise" and subject to a **10ms Safety Lock** and 1.28% spatial tax.
 
 **Authorized by**: THE SUPREME ROOT  
 **Kinetic Registry**: SASCAR.COM
